@@ -1,3 +1,3 @@
 # odin-recipes
 
-A basic recipie website
+A basic recipe website
